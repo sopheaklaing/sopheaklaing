@@ -2,36 +2,52 @@
 
 💻 **Junior Backend / Full-Stack Developer**
 
-I build backend systems, REST APIs, microservices, and production-oriented applications with a focus on clean architecture, database design, Docker, and CI/CD.
+I build backend systems, REST APIs, microservices, and production-oriented applications with a focus on clean architecture, database design, Docker, CI/CD, and DevSecOps.
 
-### 🚀 What I Work With
+### 🛠️ Tech Stack
 
-* **Backend:** Java, Spring Boot, PHP, Laravel, REST APIs
-* **Architecture:** Microservices, MVC, MVVM, Service-to-Service Communication
-* **Databases:** PostgreSQL, MySQL, Redis, MongoDB
-* **DevOps:** Docker, Docker Compose, GitHub Actions, CI/CD, Linux, Nginx
-* **Mobile:** Flutter, Dart
-* **Tools:** Git, GitHub, Postman, Swagger/OpenAPI
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,dart,sql" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
+
+**DevOps & DevSecOps**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,cloudflare,aws" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,swagger" />
 
 ### 🔨 Current Projects
 
 * **Microservice Architecture** — Building service-to-service communication with Spring Boot
 * **Mini E-Commerce REST API** — Backend API with authentication, CRUD, payment integration, Docker, and CI/CD
-* **InfraFlow** — Exploring infrastructure and DevOps automation
+* **InfraFlow** — Exploring infrastructure, DevOps, and DevSecOps automation
 
 ### 📚 Currently Learning
 
 * Spring Boot
 * Microservices Architecture
 * AWS & Cloud Infrastructure
-* Advanced DevOps
+* Advanced DevOps & DevSecOps
 * Distributed Systems
+* System Design
 
-### 📊 GitHub Activity
+### 🎯 Development Focus
 
-🚀 Building consistently
-🔧 Focused on backend and infrastructure
-📦 Learning by building real-world projects
+**Backend Development → Microservices → DevOps → DevSecOps → Cloud**
 
 ### 🔗 Connect With Me
 
